@@ -1,5 +1,9 @@
 # 🌿 VerdantView
 
+<p align="center">
+  <img src="logo" alt="VerdantView Logo" width="200"/>
+</p>
+
 **VerdantView** by **Team Black Box** is a smart geospatial platform developed for the **NASA Space Apps Challenge 2025 – Bloom Watch**. It leverages the power of NASA’s satellite data and artificial intelligence to deliver actionable insights for sustainable agriculture.
 
 🔗 **Live App**: [VerdantView Earth Engine App](https://top-chassis-470417-u2.projects.earthengine.app/view/verdent-view)  
