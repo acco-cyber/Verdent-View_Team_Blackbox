@@ -1,4 +1,4 @@
-# 🌿 VerdantView
+#  VerdantView
 
 <p align="center">
   <img src="logo" alt="VerdantView Logo" width="200"/>
