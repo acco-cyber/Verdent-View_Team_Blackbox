@@ -82,3 +82,4 @@ This project is open-source under the [MIT License](LICENSE).
 
 We welcome feedback, suggestions, and contributions! Feel free to open issues or submit pull requests.
 
+Thank you**
