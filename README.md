@@ -9,7 +9,7 @@
 🔗 **Live App**: [VerdantView Earth Engine App](https://top-chassis-470417-u2.projects.earthengine.app/view/verdent-view)  
 🧪 **Run in GEE Code Editor**: [Google Earth Engine Playground](https://developers.google.com/earth-engine/guides/playground)
 
--
+
 
 ## 🚀 Overview
 
