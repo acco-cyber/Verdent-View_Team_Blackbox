@@ -35,7 +35,7 @@ Built on **Google Earth Engine**, VerdantView integrates datasets like:
 - 📅 **Harvest Timing Estimation** — based on phenological patterns  
 - 🗂️ **Dataset Categorization** — organized access to multiple NASA datasets
 
----
+--
 
 ## 🛠️ Technologies Used
 
